@@ -58,7 +58,7 @@ The objective of this project is to perform a deep-dive analysis of sales data a
 
 ## Dashboard Preview
 
-(Add dashboard.png here)
+<img width="1307" height="737" alt="image" src="https://github.com/user-attachments/assets/1ade698f-14ec-41cc-9b02-54a94678c4eb" />
 
 ---
 
