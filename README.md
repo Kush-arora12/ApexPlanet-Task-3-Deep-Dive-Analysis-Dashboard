@@ -58,7 +58,7 @@ The objective of this project is to perform a deep-dive analysis of sales data a
 
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview](Dashboard_Screenshot)
 
 ---
 
