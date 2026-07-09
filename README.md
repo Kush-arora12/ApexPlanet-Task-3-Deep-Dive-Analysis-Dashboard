@@ -4,7 +4,7 @@
 
 This project was developed as part of the ApexPlanet Data Analytics Internship.
 
-The objective of this project is to perform a deep-dive analysis of sales data and build an interactive dashboard using Microsoft Power BI.
+The objective of this project is to perform a deep-dive analysis of sales data and build an interactive dashboard using Microsoft Power BI. The dashboard provides meaningful business insights through key performance indicators (KPIs), trend analysis, and interactive visualizations.
 
 ---
 
@@ -12,8 +12,8 @@ The objective of this project is to perform a deep-dive analysis of sales data a
 
 - Perform deep-dive sales analysis
 - Identify business trends
-- Design an interactive dashboard
-- Define important KPIs
+- Design an interactive Power BI dashboard
+- Define key performance indicators (KPIs)
 - Support data-driven decision making
 
 ---
@@ -35,7 +35,7 @@ The objective of this project is to perform a deep-dive analysis of sales data a
 - Sales by Category
 - Sales by City
 - Product-wise Sales
-- Gender-wise Distribution
+- Gender-wise Order Distribution
 - Interactive Filters (Category, City & Gender)
 
 ---
@@ -47,18 +47,18 @@ The objective of this project is to perform a deep-dive analysis of sales data a
 
 ---
 
-## Files Included
+## Repository Contents
 
 - Dashboard.pbix
 - Deep Dive Analysis Report.pdf
-- Cleaned_Dataset.xlsx
-- Dashboard Screenshot
+- Cleaned_Sales_Dataset.xlsx
+- Dashboard_Screenshot.png
 
 ---
 
 ## Dashboard Preview
 
-<img width="1307" height="737" alt="image" src="https://github.com/user-attachments/assets/1ade698f-14ec-41cc-9b02-54a94678c4eb" />
+![Dashboard Preview](Dashboard_Screenshot.png)
 
 ---
 
@@ -66,10 +66,10 @@ The objective of this project is to perform a deep-dive analysis of sales data a
 
 Power BI Service publishing could not be completed because it requires a supported Microsoft work/school account.
 
-The complete interactive dashboard (.pbix) has been included in this repository.
+The complete interactive dashboard (.pbix) has been included in this repository and can be viewed using Microsoft Power BI Desktop.
 
 ---
 
 ## Author
 
-Kushaljeet Arora
+**Kushaljeet Arora**
